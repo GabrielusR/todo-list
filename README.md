@@ -3,4 +3,4 @@
 
 Manage your week activities with this simple app.
 
-[See it live]()
+[See it live](https://gabrielusr.github.io/todo-list/)
