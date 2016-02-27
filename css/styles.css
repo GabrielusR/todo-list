@@ -69,6 +69,7 @@ ul li {
     border: solid 1px #ccc;
 }
 
+
 ul li:hover {
     background: #ddd;
     border-color: #aaa;
@@ -130,6 +131,10 @@ ul li:active {
     text-align: center;
     border-right: solid 1px white;
     font-size: 14px;
+}
+
+#todoList li.addItem.lastItem {
+    padding-right: 13px;
 }
 
 #todoList li.listTitle:hover,
